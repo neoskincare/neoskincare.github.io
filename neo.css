@@ -141,13 +141,19 @@ figure {
 }
 
 /*---Media Queries --*/
+/* X-Lare Screen size */
+@media screen and (min-width: 2000px) {
+  .social a {
+    font-size: 4em;
+    margin: 0 50px !important;
+  }
+}
 /* Lare Screen size */
 @media screen and (max-width: 2000px) {
     .social a {
       font-size: 4em;
       margin: 0 50px !important;
     }
-   
   }
 
   /* Midium Screen Size */
