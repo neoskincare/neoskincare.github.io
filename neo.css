@@ -142,7 +142,7 @@ figure {
 
 /*---Media Queries --*/
 /* X-Lare Screen size */
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 996px) {
   .social a {
     font-size: 4em;
     margin: 0 50px !important;
